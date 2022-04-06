@@ -1,0 +1,31 @@
+header{
+
+    font-size: 50px;
+}
+
+body{
+
+    color:bisque;
+}
+
+body > center{
+
+    font-size: 25px;
+}
+
+body{
+
+    background-image: url(https://cdn.discordapp.com/attachments/735984479906037845/961386761752313876/yy.jpg);
+}
+
+body > center > iframe{
+
+    border: 8px;
+    border-radius: 10px;
+}
+
+div.copyright > center > h1{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 25px;
+}
